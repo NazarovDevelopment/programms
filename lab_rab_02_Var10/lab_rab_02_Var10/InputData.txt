@@ -1,0 +1,8 @@
+Ivanov        3  4
+Sidorov       4  4
+Petrov       3  4
+Ivanova       3  4
+Sidorova      5  4
+Petrovich      2  5
+Petrovskiy    3  4
+Sidoridse    5  4
